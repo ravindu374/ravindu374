@@ -47,6 +47,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <!-- Programming Languages -->
   <a href="https://www.python.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" width="40" height="40"/>
   </a>
@@ -55,10 +56,9 @@
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/>
-  </a> 
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40"/>
   </a>
+
+  <!-- Web -->
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
   </a> 
@@ -68,6 +68,28 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40"/>
   </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
+  </a>
+
+  <!-- AI / ML -->
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=opencv" width="40" height="40"/>
+  </a>
+
+  <!-- Hardware / DB / Tools -->
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
   </a>
@@ -75,10 +97,9 @@
     <img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/>
   </a>
 </p>
+
 <br>
-
 <hr>
-
 <h3 align="center">GitHub Stats</h3>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=ravindu374&style=flat-square&color=blue" alt=""/>
